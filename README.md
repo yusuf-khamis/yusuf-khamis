@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi 👋, I'm Yusuf.
+
+### A passionate full-stack developer from Kenya.
+![Profile Views](https://komarev.com/ghpvc/?username=yusuf-khamis&color=blue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusuf-khamis&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-khamis&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=yusuf-khamis&theme=radical)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-hamisi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufkhamis27@gmail.com)
 
 <!--
 **yusuf-khamis/yusuf-khamis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
